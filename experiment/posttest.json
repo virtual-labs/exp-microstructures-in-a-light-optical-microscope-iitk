@@ -2,35 +2,103 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. What is the standard etchant used for observing the microstructure of plain carbon steel?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Ferric chloride",
+        "b": "Nital (HNO<sub>3</sub> in alcohol)",
+        "c": "Hydrofluoric acid",
+        "d": "Sulfuric acid"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. What two phases would you expect to see in the microstructure of a slowly cooled hypoeutectoid steel?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Ferrite and Cementite",
+        "b": "Austenite and Pearlite",
+        "c": "Ferrite and Pearlite",
+        "d": "Cementite and Pearlite"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Which of the following image is a structure of ‘annealed’ condition of a 0.45 %C hypoeutectoid steel?",
+      "answers": {
+        "a": "<img src='images/img_1.png' alt='Microstructure A'/>",
+        "b": "<img src='images/img_2.png' alt='Microstructure B'/>",
+        "c": "<img src='images/img_3.png' alt='Microstructure C'/>",
+        "d": "<img src='images/img_4.png' alt='Microstructure D'/>"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. The distinguishing microstructural feature of nodular cast iron (or ductile iron) is the presence of:",
+      "answers": {
+        "a": "Graphite flakes",
+        "b": "Cementite needles",
+        "c": "Graphite spheroids",
+        "d": "Temper carbon nodules"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. The matrix microstructure of as-cast nodular iron can consist of:",
+      "answers": {
+        "a": "Pure cementite with graphite",
+        "b": "Only ferrite",
+        "c": "Only pearlite",
+        "d": "Ferrite, pearlite, or a mixture of both with graphite"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. For brass with approximately 40% zinc (Muntz metal), what is the typical microstructure at room temperature?",
+      "answers": {
+        "a": "Pure alpha (α) phase",
+        "b": "Pure beta (𝛽′) phase",
+        "c": "A mixture of alpha (α) and beta (𝛽′) phases",
+        "d": "A homogeneous solid solution"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"

@@ -2,37 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. The role of etching a polished steel sample for microscopic examination is to: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "remove surface scratches left by polishing",
+        "b": "apply a protective coating on the surface",
+        "c": "create contrast between different microstructural features",
+        "d": "increase the hardness of the sample"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Which surface condition is needed for the specimen before etching?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "A coarse, rough surface from grinding",
+        "b": "A surface with a dark, oxidized layer",
+        "c": "A flat, mirror-like finish from final polishing",
+        "d": "A surface with visible deep scratches"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. After etching, how can grain boundaries be identified under an optical microscope?",
+      "answers": {
+        "a": "As bright, reflective lines",
+        "b": "As dark, thin lines",
+        "c": "As colorful, iridescent patches",
+        "d": "They are not visible after etching"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Which element is the primary alloying addition for copper in brass?",
+      "answers": {
+        "a": "Tin (Sn)",
+        "b": "Nickel (Ni)",
+        "c": "Lead (Pb)",
+        "d": "Zinc (Zn)"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. How does the microstructure of nodular cast iron compare to that of gray cast iron?",
+      "answers": {
+        "a": "Both have graphite flakes, but nodular iron has a harder matrix",
+        "b": "Nodular iron has graphite spheroids, while gray iron has graphite flakes",
+        "c": "Gray iron has cementite, while nodular iron has graphite nodules.",
+        "d": "The microstructure is identical, but the alloying elements are different."
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
