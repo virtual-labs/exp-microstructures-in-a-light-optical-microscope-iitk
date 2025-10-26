@@ -36,7 +36,7 @@ Figure 2: Microstructure of brass, an alloy of 60% copper and 40% zinc, showing 
 <img src='images/img_7.png'><br>
 Figure 3: Microstructure of brass showing Widmanstätten microstructure of brass exhibiting elongated alpha-lath structure (Zn) embedded within beta (𝛽′, Cu) matrix.<br><br>
 
-Microstructure of nodular cast-iron is also provided as Figure 4. Herein the nodules of carbon (graphite) are typically surrounded by ferrite with remaining matrix of pearlite (which can be revealed after etching the cast iron). Typically, Magnesium is added to promote formation of graphite spheroids. Here, the purpose of presenting the un-etched microstructure (Fig. 4) is to observe the size and distribution of the carbon nodules in the cast iron.<br><br>
+Microstructure of nodular cast-iron is also provided as Figure 4. Here in the nodules of carbon (graphite) are typically surrounded by ferrite with remaining matrix of pearlite (which can be revealed after etching the cast iron). Typically, Magnesium is added to promote formation of graphite spheroids. Here, the purpose of presenting the un-etched microstructure (Fig. 4) is to observe the size and distribution of the carbon nodules in the cast iron.<br><br>
 
 
 <img src='images/img_8.png'><br>
