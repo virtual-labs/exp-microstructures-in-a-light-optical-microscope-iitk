@@ -10,16 +10,16 @@ Table 1: Common chemical etchants for revealing grain boundary/ second phases du
 
 | **S. No.** | **Material**       | **Etchant**                                                                                                                                                          |
 |-------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 | **Mild Steel** | Nital (100 mL ethanol, 1–10 mL Nitric Acid) for revealing ferrite and ferrite–carbide interfaces  <br> - Picral (100 mL ethanol, 2 g Picric acid) |
+| 1 | **Mild Steel** | Nital (100 mL ethanol, 1–10 mL Nitric Acid) for revealing ferrite and ferrite–carbide interfaces  <br>  Picral (100 mL ethanol, 2 g Picric acid) |
 | 2 | **Cast Iron** | Nital (100 mL ethanol, 1–10 mL Nitric Acid) |
 | 3 | **Copper** | 30 mL HCl, 10 g FeCl₃, 120 mL Water or ethanol |
 | 4 | **Aluminium** | 10 mL H₃PO₄ (85%), 90 mL Water |
-| 5 | **Nickel** | 1 part HNO₃ (conc), 1 part Acetic acid (glacial)  <br> - 7.5 mL HF, 2.5 mL HNO₃, 200 mL methanol |
-| 6 | **Titanium** | 10 mL HF, 25 mL HNO₃, 45 mL glycerin, 20 mL Water  <br> - 2 mL HF, 98 mL Water |
-| 7 | **Magnesium** | 0.6 g Picric acid, 10 mL Ethanol (95%), 90 mL Water  <br> - 2 mL HF (48%), 2 mL HNO₃ (conc.), 96 mL Water |
+| 5 | **Nickel** | 1 part HNO₃ (conc), 1 part Acetic acid (glacial)  <br>  7.5 mL HF, 2.5 mL HNO₃, 200 mL methanol |
+| 6 | **Titanium** | 10 mL HF, 25 mL HNO₃, 45 mL glycerin, 20 mL Water  <br>  2 mL HF, 98 mL Water |
+| 7 | **Magnesium** | 0.6 g Picric acid, 10 mL Ethanol (95%), 90 mL Water  <br>  2 mL HF (48%), 2 mL HNO₃ (conc.), 96 mL Water |
 | 8 | **Brass** | 100 mL distilled Water, 50 mL Nitric acid, 8 mL Sulfuric acid, 7.5 g Ammonium chloride, 40 g Chromium (VI) oxide |
 | 9 | **Inconel** | 20–30 mL distilled Water, 0–20 mL HNO₃, 20 mL HCl, 10 mL H₂O₂ (30%) *(concentration variable)* |
-| 10 | **Stainless Steel** | 5–10 mL Hydrochloric acid (35%), 1–3 mL Selenic acid, 100 mL Ethyl alcohol (95%)  <br> - HCl saturated with FeCl₃ |
+| 10 | **Stainless Steel** | 5–10 mL Hydrochloric acid (35%), 1–3 mL Selenic acid, 100 mL Ethyl alcohol (95%)  <br>  HCl saturated with FeCl₃ |
 
 
 
@@ -36,7 +36,7 @@ Figure 2: Microstructure of brass, an alloy of 60% copper and 40% zinc, showing 
 <img src='images/img_7.png'><br>
 Figure 3: Microstructure of brass showing Widmanstätten microstructure of brass exhibiting elongated alpha-lath structure (Zn) embedded within beta (𝛽′, Cu) matrix.<br><br>
 
-Microstructure of nodular cast-iron is also provided as Figure 4. Herein the nodules of carbon (graphite) are typically surrounded by ferrite with remaining matrix of pearlite (which can be revealed after etching the cast iron). Typically, Magnesium is added to promote formation of graphite spheroids. Here, the purpose of presenting the un-etched microstructure (Fig. 4) is to observe the size and distribution of the carbon nodules in the cast iron.<br><br>
+Microstructure of nodular cast-iron is also provided as Figure 4. Here in the nodules of carbon (graphite) are typically surrounded by ferrite with remaining matrix of pearlite (which can be revealed after etching the cast iron). Typically, Magnesium is added to promote formation of graphite spheroids. Here, the purpose of presenting the un-etched microstructure (Fig. 4) is to observe the size and distribution of the carbon nodules in the cast iron.<br><br>
 
 
 <img src='images/img_8.png'><br>
