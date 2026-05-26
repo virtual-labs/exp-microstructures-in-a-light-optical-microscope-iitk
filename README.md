@@ -4,7 +4,7 @@
 <b>Discipline | <b>Physical Science 
 :--|:--|
 <b> Lab | <b> Virtual Reality
-<b> Experiment|     <b> 
+<b> Experiment|     <b> Observation of Microstructures in a Light-Optical Microscope
 ### About the Experiment 
 
 
