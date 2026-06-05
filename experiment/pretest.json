@@ -10,11 +10,11 @@
         "d": "increase the hardness of the sample"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+        "a": "Incorrect — surface scratches are removed during polishing, not etching; etching is done afterward for revealing structure.",
+  "b": "Incorrect — etching does not protect the surface; it actually chemically attacks it in a controlled way.",
+  "c": "Correct — etching creates contrast by preferentially attacking different phases or grain boundaries, making microstructural features visible.",
+  "d": "Incorrect — etching does not change or increase hardness; it only modifies surface appearance for observation."
+},
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -27,11 +27,11 @@
         "d": "A surface with visible deep scratches"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+        "a": "Incorrect — a coarse, rough ground surface is not suitable because it hides microstructural details and gives poor etching results.",
+  "b": "Incorrect — an oxidized layer interferes with proper etching and must be removed during polishing.",
+  "c": "Correct — a flat, mirror-like polished surface is required so that etching can selectively reveal microstructural features clearly.",
+  "d": "Incorrect — deep scratches interfere with accurate observation and are removed during polishing before etching."
+},
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -44,11 +44,11 @@
         "d": "They are not visible after etching"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+         "a": "Incorrect — grain boundaries are not typically bright reflective lines after etching; etching reduces reflectivity at boundaries.",
+  "b": "Correct — grain boundaries appear as dark, thin lines because the etchant attacks these regions more strongly, reducing light reflection.",
+  "c": "Incorrect — iridescent colors are not a typical feature of etched metallic microstructures under optical microscopy.",
+  "d": "Incorrect — etching is specifically done to make grain boundaries visible, so they are clearly observable."
+},
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -61,11 +61,11 @@
         "d": "Zinc (Zn)"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+        "a": "Incorrect — tin is the main alloying element in bronze, not brass.",
+  "b": "Incorrect — nickel is used in some copper alloys (like cupronickel), but not the primary element in brass.",
+  "c": "Incorrect — lead may be added in small amounts for machinability, but it is not the main alloying element in brass.",
+  "d": "Correct — zinc is the primary alloying element in brass, forming the Cu–Zn alloy system."
+},
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -78,11 +78,11 @@
         "d": "The microstructure is identical, but the alloying elements are different."
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+        "a": "Incorrect — gray iron has graphite flakes, but the key difference is not simply a harder matrix in nodular iron; the graphite shape is the main distinguishing feature.",
+  "b": "Correct — nodular (ductile) cast iron contains graphite in spheroidal (nodular) form, while gray cast iron contains graphite in flake form.",
+  "c": "Incorrect — gray iron does contain graphite flakes, but nodular iron also has graphite nodules (not cementite as the defining feature). The key distinction is graphite shape, not cementite presence.",
+  "d": "Incorrect — their microstructures are fundamentally different due to graphite morphology, not identical."
+},
       "correctAnswer": "b",
       "difficulty": "beginner"
     }

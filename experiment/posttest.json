@@ -10,11 +10,11 @@
         "d": "Sulfuric acid"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+        "a": "Incorrect — ferric chloride is mainly used for etching non-ferrous metals like copper and its alloys, not standard for plain carbon steel.",
+  "b": "Correct — Nital (a solution of nitric acid in alcohol) is the standard etchant for plain carbon steel, commonly used to reveal ferrite-pearlite structures.",
+  "c": "Incorrect — hydrofluoric acid is highly dangerous and typically used for silicon-containing materials, not standard steel microstructure etching.",
+  "d": "Incorrect — sulfuric acid is not used as a standard metallographic etchant for steel microstructure observation."
+},
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -27,11 +27,11 @@
         "d": "Cementite and Pearlite"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+        "a": "Incorrect — ferrite and cementite together as separate bulk phases are not the typical equilibrium microstructure; cementite mainly exists within pearlite.",
+  "b": "Incorrect — austenite is not present at room temperature after slow cooling; it transforms into ferrite and pearlite.",
+  "c": "Correct — slowly cooled hypoeutectoid steel consists of proeutectoid ferrite and pearlite.",
+  "d": "Incorrect — cementite is not a primary phase in hypoeutectoid steel; pearlite already contains cementite in lamellar form."
+},
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -44,11 +44,11 @@
         "d": "<img src='images/img_4.png' alt='Microstructure D'/>"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+        "a": "Incorrect — does not match the typical annealed hypoeutectoid structure of ferrite + pearlite balance.",
+  "b": "Correct — shows the annealed 0.45% C hypoeutectoid steel microstructure consisting of proeutectoid ferrite (light regions) and pearlite colonies (dark lamellar regions), which is characteristic of slow cooling/annealing.",
+  "c": "Incorrect — likely represents a different heat-treated or non-equilibrium structure, not annealed condition.",
+  "d": "Incorrect — does not represent the expected ferrite–pearlite equilibrium microstructure of annealed steel."
+},
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -61,11 +61,11 @@
         "d": "Temper carbon nodules"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+        "a": "Incorrect — graphite flakes are characteristic of gray cast iron, not ductile (nodular) iron.",
+  "b": "Incorrect — cementite needles are not the defining feature of nodular cast iron microstructure.",
+  "c": "Correct — ductile (nodular) cast iron is characterized by graphite spheroids (nodules), which improve strength and ductility.",
+  "d": "Incorrect — temper carbon nodules are associated with malleable cast iron, not nodular (ductile) cast iron."
+},
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -78,11 +78,11 @@
         "d": "Ferrite, pearlite, or a mixture of both with graphite"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+        "a": "Incorrect — as-cast nodular iron does not consist of pure cementite; cementite is not the main matrix phase.",
+  "b": "Incorrect — the matrix is not always only ferrite; it depends on cooling rate and composition.",
+  "c": "Incorrect — it is not exclusively pearlite; ferrite may also be present in the matrix.",
+  "d": "Correct — the matrix of as-cast nodular iron can be ferritic, pearlitic, or a ferrite–pearlite mixture, with graphite nodules dispersed in it."
+},
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -95,11 +95,11 @@
         "d": "A homogeneous solid solution"
       },
       "explanations": {
-        "a": "Explanation",
-        "b": "Explanation",
-        "c": "Explanation",
-        "d": "Explanation"
-      },
+        "a": "Incorrect — pure alpha phase occurs at lower zinc contents (up to ~35% Zn), not at ~40% Zn.",
+  "b": "Incorrect — beta (β′) phase alone is not stable at room temperature in this composition; it usually appears with alpha in two-phase region.",
+  "c": "Correct — at ~40% Zn (Muntz metal), the microstructure at room temperature is a mixture of alpha (α) and beta (β′) phases.",
+  "d": "Incorrect — it is not a single homogeneous solid solution because the composition lies in the two-phase α + β region."
+},
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
