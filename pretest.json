@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. The role of etching a polished steel sample for microscopic examination is to: ",
+      "answers": {
+        "a": "remove surface scratches left by polishing",
+        "b": "apply a protective coating on the surface",
+        "c": "create contrast between different microstructural features",
+        "d": "increase the hardness of the sample"
+      },
+      "explanations": {
+        "a": "Incorrect — surface scratches are removed during polishing, not etching; etching is done afterward for revealing structure.",
+  "b": "Incorrect — etching does not protect the surface; it actually chemically attacks it in a controlled way.",
+  "c": "Correct — etching creates contrast by preferentially attacking different phases or grain boundaries, making microstructural features visible.",
+  "d": "Incorrect — etching does not change or increase hardness; it only modifies surface appearance for observation."
+},
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Which surface condition is needed for the specimen before etching?",
+      "answers": {
+        "a": "A coarse, rough surface from grinding",
+        "b": "A surface with a dark, oxidized layer",
+        "c": "A flat, mirror-like finish from final polishing",
+        "d": "A surface with visible deep scratches"
+      },
+      "explanations": {
+        "a": "Incorrect — a coarse, rough ground surface is not suitable because it hides microstructural details and gives poor etching results.",
+  "b": "Incorrect — an oxidized layer interferes with proper etching and must be removed during polishing.",
+  "c": "Correct — a flat, mirror-like polished surface is required so that etching can selectively reveal microstructural features clearly.",
+  "d": "Incorrect — deep scratches interfere with accurate observation and are removed during polishing before etching."
+},
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. After etching, how can grain boundaries be identified under an optical microscope?",
+      "answers": {
+        "a": "As bright, reflective lines",
+        "b": "As dark, thin lines",
+        "c": "As colorful, iridescent patches",
+        "d": "They are not visible after etching"
+      },
+      "explanations": {
+         "a": "Incorrect — grain boundaries are not typically bright reflective lines after etching; etching reduces reflectivity at boundaries.",
+  "b": "Correct — grain boundaries appear as dark, thin lines because the etchant attacks these regions more strongly, reducing light reflection.",
+  "c": "Incorrect — iridescent colors are not a typical feature of etched metallic microstructures under optical microscopy.",
+  "d": "Incorrect — etching is specifically done to make grain boundaries visible, so they are clearly observable."
+},
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Which element is the primary alloying addition for copper in brass?",
+      "answers": {
+        "a": "Tin (Sn)",
+        "b": "Nickel (Ni)",
+        "c": "Lead (Pb)",
+        "d": "Zinc (Zn)"
+      },
+      "explanations": {
+        "a": "Incorrect — tin is the main alloying element in bronze, not brass.",
+  "b": "Incorrect — nickel is used in some copper alloys (like cupronickel), but not the primary element in brass.",
+  "c": "Incorrect — lead may be added in small amounts for machinability, but it is not the main alloying element in brass.",
+  "d": "Correct — zinc is the primary alloying element in brass, forming the Cu–Zn alloy system."
+},
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. How does the microstructure of nodular cast iron compare to that of gray cast iron?",
+      "answers": {
+        "a": "Both have graphite flakes, but nodular iron has a harder matrix",
+        "b": "Nodular iron has graphite spheroids, while gray iron has graphite flakes",
+        "c": "Gray iron has cementite, while nodular iron has graphite nodules.",
+        "d": "The microstructure is identical, but the alloying elements are different."
+      },
+      "explanations": {
+        "a": "Incorrect — gray iron has graphite flakes, but the key difference is not simply a harder matrix in nodular iron; the graphite shape is the main distinguishing feature.",
+  "b": "Correct — nodular (ductile) cast iron contains graphite in spheroidal (nodular) form, while gray cast iron contains graphite in flake form.",
+  "c": "Incorrect — gray iron does contain graphite flakes, but nodular iron also has graphite nodules (not cementite as the defining feature). The key distinction is graphite shape, not cementite presence.",
+  "d": "Incorrect — their microstructures are fundamentally different due to graphite morphology, not identical."
+},
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
